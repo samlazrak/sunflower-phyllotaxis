@@ -1,4 +1,4 @@
-# sunflower-phyllotaxis
+# sunflower-phyllotaxis - code based loosely off of below & of a guide I can't find anymore. Just search python sunflower phyllotaxis. 
 
 # http://algorithmicbotany.org/papers/abop/abop-ch4.pdf
 
