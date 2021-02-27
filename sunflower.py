@@ -7,6 +7,7 @@ t.shape("circle")
 window=turtle.Screen()
 window.bgcolor("black")
 t.speed(100)
+t.hideturtle()
 
 def drawPhyllPattern(turtle, t, petalstart, angle=137.5077641, size=15, cspread=5):
     phi = angle * (math.pi / 180.0)
@@ -59,4 +60,4 @@ def drawPetal(turtle, x, y):
 
 drawPhyllPattern(t, 250, 200, 137.5077641)
 t.penup()
-turtle.mainloop()
+turtle.mainloop()   
